@@ -20,6 +20,7 @@ AI-Spreadsheet-Builder/
 |-- config.py
 |-- excel_formatter.py
 |-- json_utils.py
+|-- requirements.txt
 |-- workbook_service.py
 `-- README.md
 ```
@@ -33,10 +34,10 @@ AI-Spreadsheet-Builder/
 
 ## Requirements
 
-Install these Python packages:
+Install the dependencies from `requirements.txt`:
 
 ```bash
-pip install streamlit pandas openai openpyxl
+pip install -r requirements.txt
 ```
 
 ## Run The App
