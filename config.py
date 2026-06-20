@@ -38,6 +38,7 @@ SYSTEM_INSTRUCTION = (
 
 FOOTER_HTML = """
 <div style="text-align: center; color: #888888; font-size: 0.85rem;">
-    Smart Hybrid Excel Agent • Build By Mohammed El Hassani
+    AI Spreadsheet Builder • Build By Mohammed El Hassani
+
 </div>
 """
