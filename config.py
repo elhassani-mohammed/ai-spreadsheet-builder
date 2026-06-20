@@ -10,7 +10,7 @@ APP_DESCRIPTION = (
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 
 MODEL_OPTIONS = [
-    "meta-llama/llama-3-70b-instruct",
+    
     "meta-llama/llama-4-scout",
 ]
 
