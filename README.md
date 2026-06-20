@@ -2,6 +2,12 @@
 
 `AI Spreadsheet Builder` is a Streamlit app that generates structured tabular data with OpenRouter, lets you review and edit the result in a grid, and exports a styled Excel workbook.
 
+## 📱 App Link
+
+**Try it here:** [https://ai-spreadsheet-builder.streamlit.app](https://ai-spreadsheet-builder.streamlit.app)
+
+
+
 ## Features
 
 - Generate a dataset from a natural-language prompt
